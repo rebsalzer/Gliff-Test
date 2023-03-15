@@ -5,10 +5,17 @@
     "label": { "en": [ "Gliff Master Video" ] },
     "homepage": [
       {
-        "id": "https://vimeo.com/630436819",
+        "id": "https://vimeo.com/rebeccasalzer/gliff",
         "type": "Text",
         "label": { "en": [ "Gliff Master Video" ] },
         "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://vimeo.com/",
+        "type": "Agent",
+        "label": { "en": [ "Vimeo" ] }
       }
     ],
     "items": [
@@ -26,7 +33,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://vimeo.com/630436819",
+                  "id": "https://vimeo.com/rebeccasalzer/gliff",
                     "duration": 240.0
                 },
                 "target": "https://rebsalzer.github.io/Gliff-Test/gliff-master-video/canvas-1/canvas"
