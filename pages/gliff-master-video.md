@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Gliff Master Video
 manifest_name: gliff-master-video
 permalink: gliff-master-video
